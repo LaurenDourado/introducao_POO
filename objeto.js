@@ -9,5 +9,4 @@ const aluno= {
 
  console.log(aluno.nome);
  aluno.estudar();
-
-za
+  
