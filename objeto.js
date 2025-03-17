@@ -1,7 +1,7 @@
 // Criando um objeto de aluno
 const aluno= {
     nome: "Lauren",
-    idade: 23,
+    idade: 16,
 
     estudar: () => console.log
     (`${aluno.nome} está estudando. `),
